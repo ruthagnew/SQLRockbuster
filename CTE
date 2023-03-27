@@ -1,4 +1,4 @@
-A SQL query utilising a common table expression. 
+A SQL query utilising a common table expression which displayed all countries by total revenue, total number of customers, and average payment by customer. 
 
 WITH cte1_profit_by_country (country, total_revenue, number_of_customers) AS								
 		(SELECT E.country,						
