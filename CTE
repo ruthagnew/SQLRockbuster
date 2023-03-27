@@ -1,5 +1,4 @@
-A CTE 
-
+A SQL query utilising a common table expression. 
 
 WITH cte1_profit_by_country (country, total_revenue, number_of_customers) AS								
 		(SELECT E.country,						
