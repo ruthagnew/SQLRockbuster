@@ -1,4 +1,4 @@
-A SQL expression using an inner join
+A SQL expression using an inner join which shows all films by genre, rating, language, number of rentals, and total profit made.
 
 SELECT D.title AS film,						
 	   F.name AS genre,					
