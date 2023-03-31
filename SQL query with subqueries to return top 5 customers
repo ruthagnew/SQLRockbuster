@@ -1,4 +1,4 @@
-SQL query using nested subqueries and joins. 
+SQL query using nested subqueries and joins to return the top five Rockbuster customers based on the top 10 most profitable cities. 
 
 
 SELECT all_customers.country,
