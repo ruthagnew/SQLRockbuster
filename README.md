@@ -5,6 +5,6 @@ Analysis of the PostgreSQL Sample Database of a ficticious movie rental company 
 Rockbuster is a ficticious DVD rental company looking to break into the online video rental market. For that purpose they want to gain insights of their current portfolio performance and customer base to inform their company strategy.
 
 ## Data
-Opensource tutorial data from PostgreSQL available here. 
+Opensource tutorial data from PostgreSQL available [here]("C:\Users\rutha\OneDrive\CareerFoundry\4. Databases and SQL for Analysts\Data\Rockbuster.zip"). 
 
 You can find all visualisations on [Tableau](https://public.tableau.com/app/profile/ruth.agnew3351).
